@@ -4,4 +4,5 @@
 * Okumura et al.: リモートセンシングにおける人工知能（AI）活用
 * Palomares et al.: 2030年までに持続可能な開発目標（SDGs）を達成するための人工知能の包括的俯瞰とSWOT分析：進捗と展望
 * Palomares et al.: A panoramic view and swot analysis of artificial intelligence for achieving the sustainable development goals by 2030: progress and prospects
+* Korc et al.: Health, Resilience, and Human Security
 * 
